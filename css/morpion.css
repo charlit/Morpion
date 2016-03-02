@@ -1,0 +1,18 @@
+#table-morpion {
+    position: fixed;
+}
+
+#table-morpion td {
+    height: 100px;
+    width: 100px;
+    background-color: #FEFEFE;
+    border: 1px solid black;
+    font-size: 35px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#table-proba {
+    position: fixed;
+    top: 35%;
+}

@@ -7,4 +7,6 @@ TP Arnaud Cueille
 
 Le but est de réaliser une IA pour le jeu "Morpion".
 
-Ce tp est réalisé en JS.
+Ce tp est réalisé en JS, noté 16/20.
+
+
